@@ -1,27 +1,27 @@
-# 🚀 Tourism ROI Optimization Analytics
+# ➤ Tourism ROI Optimization Analytics
 
 Data analysis and dashboard project to optimize ROI of tourism marketing campaigns using Python and Power BI.
 
 ---
 
-## 📊 Project Overview
+## ➤ Project Overview
 This project analyzes digital marketing campaign performance in the tourism sector to optimize ROI and improve budget allocation strategies.
 
 ---
 
-## 🎯 Business Problem
+## ➤ Business Problem
 Marketing campaigns generate high traffic but low conversion, leading to inefficient spending and poor ROI.
 
 ---
 
-## 🛠️ Tools Used
+## ➤ Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI
 - Excel / CSV
 
 ---
 
-## 📈 Key Metrics
+## ➤ Key Metrics
 - ROI  
 - Cost per Acquisition (CPA)  
 - Engagement Rate  
@@ -29,12 +29,12 @@ Marketing campaigns generate high traffic but low conversion, leading to ineffic
 
 ---
 
-## 📊 Dashboard Preview
+## ➤ Dashboard Preview
 ![Dashboard](images/dashboard_preview.png)
 
 ---
 
-## 🔍 Key Insights
+## ➤ Key Insights
 - Significant drop in conversion funnel (views → check-ins)  
 - High CPA observed in certain platforms  
 - Age group 36+ shows higher engagement  
@@ -42,7 +42,7 @@ Marketing campaigns generate high traffic but low conversion, leading to ineffic
 
 ---
 
-## 💡 Business Recommendations
+## ➤ Business Recommendations
 - Optimize high CPA channels  
 - Target high-engagement customer segments  
 - Improve conversion strategies (CTA, landing pages)  
@@ -50,7 +50,7 @@ Marketing campaigns generate high traffic but low conversion, leading to ineffic
 
 ---
 
-## 📌 Impact
+## ➤ Impact
 - Improved marketing budget efficiency  
 - Better targeting of high-value customer segments  
 - Enables data-driven strategic decision making  
